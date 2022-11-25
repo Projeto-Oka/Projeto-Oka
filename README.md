@@ -1,5 +1,7 @@
 # Projeto-Oka
 
-Revisão
-Willian Gilloni
-Davi Toledo
+## Revisão
+<br>
+- Willian Gilloni
+- Davi Toledo
+- Gabriel Galvão
