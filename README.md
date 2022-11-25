@@ -1,4 +1,7 @@
 # Projeto-Oka
 
-Revisão
+# Revisão
 Willian Gilloni
+Guilherme Almeida
+Davi Mattos
+Josias Barreto
